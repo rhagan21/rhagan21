@@ -14,7 +14,7 @@ I've spent the most time professionally developing web apps using TypeScript, Ja
 Add me on [LinkedIn](https://www.linkedin.com/in/rachel-hagan/) and include a message about where you ran into me. :)
 
 ## When I'm not busy coding, I spend my time:
-- Taking care of my menagerie of pets (2 dogs, 1 cat and 3 rats!)
+- Taking care of my menagerie of pets (1 cat, 2 dogs and 3 rats!)
 - Attending way too many book club meetings
 - Tending to my garden and backyard orchard
 - Making and appreciating arts and crafts - I especially love fiber art and outsider or folk art!
