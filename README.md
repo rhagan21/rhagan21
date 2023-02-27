@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Rachel. I'm currently working as a Software Engineer II at C2FO. I use she/her pronouns.
+I'm Rachel. I use she/her pronouns. I'm currently working as a Software Engineer II at C2FO. I love using code to build things and solve problems!
 
 ## Currently Learning
 GraphQL and NestJS. Diving into backend API design.
@@ -17,5 +17,5 @@ Add me on [LinkedIn](https://www.linkedin.com/in/rachel-hagan/) and include a me
 - Taking care of my menagerie of pets (2 dogs, 1 cat and 3 rats!)
 - Attending way too many book club meetings
 - Tending to my garden and backyard orchard
-- Making arts and crafts
+- Making and appreciating arts and crafts - I especially love fiber art and outsider or folk art!
 - Spending quality time with my wife Kate, and my family and friends.
