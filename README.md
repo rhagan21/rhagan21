@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Rachel. I use she/her pronouns. I'm currently working as a Software Engineer II at C2FO. I love using code to build things and solve problems!
+I'm Rachel. I use she/her pronouns. I work as a Software Engineer II at [C2FO](www.c2fo.com). I love using code to build things and solve problems!
 
 ## Currently Learning
 GraphQL and NestJS. Diving into backend API design.
@@ -10,7 +10,7 @@ I've spent the most time professionally developing web apps using TypeScript, Ja
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-## How to reach me:
+## How to reach me
 Add me on [LinkedIn](https://www.linkedin.com/in/rachel-hagan/) and include a message about where you ran into me. :)
 
 ## When I'm not busy coding, I spend my time:
