@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Rachel. I use she/her pronouns. I work as a Software Engineer II at [C2FO](www.c2fo.com). I love using code to build things and solve problems!
+I'm Rachel. I work as a Software Engineer III at [27Global](https://www.27global.com/). I love using code to build things and solve problems!
 
 ## Currently Learning
 GraphQL and NestJS. Diving into backend API design.
