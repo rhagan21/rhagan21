@@ -3,7 +3,7 @@
 I'm Rachel. I work as a Software Engineer III at [27Global](https://www.27global.com/). I love using code to build things and solve problems!
 
 ## Currently Learning
-GraphQL and NestJS. Diving into backend API design.
+Python and Ruby. Diving into the backend and databases to round out my development skills.
 
 ## Skills
 I've spent the most time professionally developing web apps using TypeScript, JavaScript, React, Angular, HTML and CSS.
